@@ -162,7 +162,6 @@ input:focus::-webkit-input-placeholder {
 .intro-section__image{
   display:inline-block;
   vertical-align: middle;
-  margin-right:0;
 }
 .features__section{
   padding:0 0 110px 0;
