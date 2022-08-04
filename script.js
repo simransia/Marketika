@@ -3,8 +3,8 @@ var navbar = document.querySelector(".header");
 
 window.onscroll = function () {
     if (this.scrollY > 150) {
-        navbar.classList.add("invert");
+        navbar.classList.add("fixed");
     } else {
-        navbar.classList.remove("invert");
+        navbar.classList.remove("fixed");
     }
 };
